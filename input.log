@@ -1,0 +1,9 @@
+2023-10-29T14:30:45: Inicio de sesión del usuario A
+2023-10-29T15:31:46: Cierre de sesión del usuario A
+2023-10-30T09:15:30: Inicio de sesión del usuario B
+2023-10-30T10:20:00: Acceso a la base de datos por usuario B
+2023-10-31T08:10:15: Fallo de inicio de sesión del usuario C
+2023-10-31T12:45:50: Cambio de contraseña del usuario A
+2023-10-31T14:32:47: Inicio de sesión del usuario C
+2023-10-31T15:50:20: Cierre de sesión del usuario B
+
