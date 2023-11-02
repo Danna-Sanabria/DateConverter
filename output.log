@@ -1,0 +1,17 @@
+20231029T143045Z:  Inicio de sesión del usuario A
+
+20231029T153146Z:  Cierre de sesión del usuario A
+
+20231030T091530Z:  Inicio de sesión del usuario B
+
+20231030T102000Z:  Acceso a la base de datos por usuario B
+
+20231031T081015Z:  Fallo de inicio de sesión del usuario C
+
+20231031T124550Z:  Cambio de contraseña del usuario A
+
+20231031T143247Z:  Inicio de sesión del usuario C
+
+20231031T155020Z:  Cierre de sesión del usuario B
+
+
